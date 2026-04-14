@@ -1,0 +1,27 @@
+Bill of Lading
+Load ID  |  LD53657
+9245 Laguna Springs Dr., Suite#200, Elk Grove, CA,  |  Ship Date  |  02-08-2026 09:00
+95758-7991
+Mailing Address: 1250 Broadway, New York, New  |  Delivery Date  |  02-08-2026 09:00
+York, 10001
+Phone: (844) 850-3391  |  PO Number Pickup  |  112233ABC
+Fax: 916-209-6669
+After hour Contact: usdev@ultraship.ai  |  Freight Charges  |  Collect
+COD  |  Prepaid
+Shipper  |  Consignee
+1.  |  AAA ,  |  1.  |  xyz ,
+Los Angeles International Airport (LAX), World Way,  |  7470 Cherry Avenue, Fontana, CA 92336, USA
+Los Angeles, CA, USA
+3rd Party Billing  |  Transportation Company
+-  |  -
+# Of Units  |  Description Of The Commodity  |  Weight  |  Type  |  Class
+#10000  |  Ceramic  |  56000 lbs  |  N/A  |  N/A
+Notes  |  COD Value
+abc test notes  |  $64000 USD
+Consignor name  |  Date  |  Signature  |  # of Units Shipped
+Time
+Consignee name  |  Date  |  Signature  |  # of Units Received
+Demo  |  Powered by Ultraship TMS  |  Page 1 of 2
+
+Time
+Demo  |  Powered by Ultraship TMS  |  Page 2 of 2

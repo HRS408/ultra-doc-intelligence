@@ -1,0 +1,67 @@
+Carrier Rate and Load Confirmation
+Dispatcher  |  Zukhruf Rukha  |  Reference ID  |  LD53657
+Phone  |  +919884954552  |  Created On  |  02-07-2026 02:27
+9245 Laguna Springs Dr., Suite#200, Elk Grove, CA,
+95758-7991  |  Mailing Address: 1250 Broadway, New York, New  |  Shipping Date  |  02-08-2026  |  Booking Date  |  02-07-2026
+York, 10001
+Phone: (844) 850-3391  |  Email  |  zukhruf.rukha@ultraship.ai
+Fax: 916-209-6669
+After hour Contact: usdev@ultraship.ai
+Carrier Details
+Carrier  |  Carrier MC  |  Phone  |  Equipment  |  Agreed Amount (USD)  |  Size (In feet)
+SWIFT SHIFT LOGISTICS LLC  |  MC1685682  |  (618) 629-3271  |  Flatbed  |  $400.00  |  48
+Stops
+#  |  Stops  |  Date/Time
+1  |  Pickup  |  S.No  |  Commodity  |  Weight  |  Quantity
+AAA  |  Shipping Date  |  1  |  Ceramic  |  56000.00 lbs  |  10000 units
+Los Angeles  |  02-08-2026
+International Airport  |  Description
+(LAX), World Way, Los
+Angeles, CA, USA  |  Pickup from the shipper location during normal operating hours. Driver to follow on-
+site instructions at arrival
+PO/Container No  |  Shipping Time
+112233ABC  |  09:00 - 17:00
+Load Type  |  Appointment
+FTL  |  15:00
+2  |  Drop  |  S.No  |  Commodity  |  Weight  |  Quantity
+xyz  |  Delivery Date  |  1  |  Ceramic  |  56000.00 lbs  |  10000 units
+7470 Cherry Avenue,  |  02-08-2026
+Fontana, CA 92336,  |  Description
+USA
+Delivery to the consignee location as scheduled. Driver to follow standard receiving
+PO/Container No  |  Delivery Time  |  procedures.
+5678abcd  |  09:00 - 17:00
+Load Type  |  Appointment
+FTL  |  -
+Rate Breakdown
+Carrier Pay  |  Total
+Flatbed:$ 400.00 USD  |  400.00 USD
+Demo  |  Powered by Ultraship TMS  |  Page 1 of 2
+
+Carrier Rate and Load Confirmation
+Dispatcher  |  Zukhruf Rukha  |  Reference ID  |  LD53657
+Phone  |  +919884954552  |  Created On  |  02-07-2026 02:27
+9245 Laguna Springs Dr., Suite#200, Elk Grove, CA,
+95758-7991  |  Mailing Address: 1250 Broadway, New York, New  |  Shipping Date  |  02-08-2026  |  Booking Date  |  02-07-2026
+York, 10001
+Phone: (844) 850-3391  |  Email  |  zukhruf.rukha@ultraship.ai
+Fax: 916-209-6669
+After hour Contact: usdev@ultraship.ai
+Standing Instructions
+Special Instructions
+All shipments must be palletized and shrink-wrapped. Drivers should check in at the warehouse and follow site safety rule
+s. No weekend pickups/deliveries unless pre-approved. For reefer loads, ensure units are pre-cooled to the specified tem
+perature.
+Shipper & Carrier Instructions
+shipper instructions: All shipments must be palletized and shrink-wrapped. Drivers should check in at the warehouse and
+follow site safety rules.
+carrier instructions: No weekend pickups/deliveries unless pre-approved. For reefer loads, ensure units are pre-cooled to
+the specified temperature.
+Test RC Instructions
+This is a placeholder for RC instructions. Please review the required steps, verify all details, and proceed accordingly. If any
+issues are identified, document them and report to the relevant team. These instructions are for demo purposes only.
+Driver Details
+Driver Name  |  Cell no.  |  Truck no.  |  Trailer no.
+John Doe  |  +1 234 567 8900  |  123456  |  0987654
+Accepted by  |  Date  |  Signature
+Demo  |  Powered by Ultraship TMS  |  Page 2 of 2

@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.env/
+
+# Build files
+dist/
+build/
+*.spec
+
+# ChromaDB storage
+storage/
+
+# Models (optional)
+*.bin
+*.pt
+
+# OS
+.DS_Store
+Thumbs.db

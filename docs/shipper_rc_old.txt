@@ -1,0 +1,101 @@
+Customer Details
+Customer
+Contact
+Phone
+Agreed Amount (USD)
+Test ABC
+rukhazukhruf@gmail.com
++1 234 567 8900
+$1000.00
+Stops
+#
+Stops
+Date/Time
+1
+2
+Rate Breakdown
+Rate Breakdown
+Total
+Flatbed:$ 1000.00 USD
+$1000.00 USD
+Accepted by
+Date
+Signature
+Pickup
+AAA
+Los Angeles
+International Airport
+(LAX), World Way, Los
+Angeles, CA, USA
+PO/Container No
+112233ABC
+Load Type
+FTL
+Shipping Date
+02-08-2026
+Shipping Time
+09:00 - 17:00
+Appointment
+15:00
+S.No
+Commodity
+Weight
+Quantity
+1
+Ceramic
+56000.00 lbs
+10000 units
+Description
+Pickup from the shipper location during normal operating hours. Driver to follow on-
+site instructions at arrival
+Drop
+xyz
+7470 Cherry Avenue,
+Fontana, CA 92336,
+USA
+PO/Container No
+5678abcd
+Load Type
+FTL
+Delivery Date
+02-08-2026
+Delivery Time
+09:00 - 17:00
+Appointment
+-
+S.No
+Commodity
+Weight
+Quantity
+1
+Ceramic
+56000.00 lbs
+10000 units
+Description
+Delivery to the consignee location as scheduled. Driver to follow standard receiving
+procedures.
+Demo
+Powered by Ultraship TMS
+Page 1 of 1
+Customer Rate and Load Confirmation
+9245 Laguna Springs Dr., Suite#200, Elk Grove, CA,
+95758-7991
+Mailing Address: 1250 Broadway, New York, New
+York, 10001
+Phone: (844) 850-3391
+Fax: 916-209-6669
+After hour Contact: usdev@ultraship.ai
+Dispatcher
+Zukhruf Rukha
+Reference ID
+LD53657
+Phone
++919884954552
+Created On
+02-07-2026 02:27
+Shipping Date
+02-08-2026
+Booking Date
+02-07-2026
+Email
+zukhruf.rukha@ultraship.ai
